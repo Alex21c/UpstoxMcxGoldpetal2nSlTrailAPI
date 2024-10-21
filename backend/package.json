@@ -1,0 +1,21 @@
+{
+  "name": "upstoxmcxgoldpetal2nsltrailapi",
+  "version": "1.0.0",
+  "description": "This script is designed to help me with MCX Goldeptal trading & 2N SL Trailing if price is above my recent entry in case of LONG OR below my recent entry in case of short.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Upstox",
+    "MCX",
+    "Goldpetal"
+  ],
+  "author": "Abhishek kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "upstox-js-sdk": "^2.11.0"
+  }
+}
